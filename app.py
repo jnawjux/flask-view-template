@@ -16,5 +16,5 @@ def ping_pong():
     return jsonify('PONG!')
 
 
-if __name__ = '__main__':
+if __name__ == '__main__':
     app.run()
